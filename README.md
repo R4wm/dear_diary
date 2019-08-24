@@ -1,6 +1,6 @@
 # journal
 
-Currently just using [ectoken] (https://github.com/VerizonDigital/ectoken) to encrypt text file and git push into dated folders
+Currently just using [ectoken](https://github.com/VerizonDigital/ectoken) to encrypt text file and git push into dated folders
 
 ## TODO
 Create a client to handle the dating formatting and ectokening
