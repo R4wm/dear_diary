@@ -9,7 +9,11 @@
 
 1. Describing Job
   * He feared God and [eschewed](https://www.merriam-webster.com/dictionary/eschew) evil
+  
+    This begs the question, how good am I at identifying evil?
+    
    Its interesting the Bible describes Job as perfect, but  we obviously know that he too was a sinner. Was this because we walked with God?
+   
    This is before one could be made perfect through the forgiveness of sins to which Jesus paid on the cross.
    
    * He was a father and husband
