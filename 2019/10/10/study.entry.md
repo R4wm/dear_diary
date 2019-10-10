@@ -16,9 +16,16 @@
    
    This is before one could be made perfect through the forgiveness of sins to which Jesus paid on the cross.
    
+   * He feared God
    * He was a father and husband
    * He was very wealthy
-   *
+   * He was thoughtful toward his children 
+   * He bothered to intervene for his children [The prudent man forseeth the evil](https://cdn.mintz5.com/801A6BD/linode/bible/PROVERBS/22/3)
+     He prayed for his children because they were feasting and being merry. Not that this was bad, but the chances of being careless are high maybe.
+     So he prayed for them early in the morning
+     Could this a picture of Jesus when he prayed for his disciples?
+ 
+     
 2. What was the purpose of letting Satan loose on Job?
 
 
@@ -28,12 +35,22 @@ We will all stand before God at some point in time. This is reality.
 Think about that day when God will ask me for an account. 
 Yes I am saved by Jesus Christ finished work, but the simple thought of standing before the creator of everything is a nice and sobering wake up call.
 
-Its significant to me that Job would ** rose up early in the morning and offered..**
+Its significant to me that Job would **rose up early in the morning and offered..**
 Maybe ask yourself what do you do early in the morning. What is the first thing you tend to think about when you wake from your sleep?
 
 * Remember that Satan does walk up and down the earth. Its also sobering that Satan still walks about the earth.
   Are you putting on your armor daily?
   Just yesterday, i know iv sinned with my mouth.
+  
+  [If you spoke it, then it was already planted in your heart..](https://cdn.mintz5.com/801A6BD/linode/bible/MATTHEW/12/34)
+  ```json
+  {
+  "Book": "MATTHEW",
+  "Chapter": 12,
+  "Verse": 34,
+  "Text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh."
+  }
+  ```
   The bible teaches to pray without ceasing.
   Walk in the spirit.
   
@@ -54,7 +71,14 @@ Maybe ask yourself what do you do early in the morning. What is the first thing 
 * So far every time Satan speaks, he speaks in questions. He tends to lean on cofusion and doubt. [See all the places Satan speaks..](https://cdn.mintz5.com/801A6BD/linode/bible/search?n=10000&q=satan&json=true)
 * Trust God, he always good.
 
-I havent got there yet in the reading, but it comes to mind. people will always let you down. People **will** always let you down. Its ok. you will let people down too. 
+I havent got there yet in the reading, but it comes to mind. 
+
+people will always let you down. 
+
+People **will** always let you down. 
+
+Its ok. you will let people down too. 
+
 Just trust God, seek him, have a health reverance and fear of God. 
 
 Thats all for now.
