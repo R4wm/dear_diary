@@ -1,4 +1,9 @@
-# Incentives
+# Godliness
+---
+[search](https://cdn.mintz5.com/801A6BD/linode/bible/search?n=31102&json=false&q=godly) on the text `godly`
+
+---
+### Incentives
 
 [But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.](https://cdn.mintz5.com/801A6BD/linode/bible/PSALMS/4/3)
 
@@ -24,7 +29,7 @@
   }
 ```
 
-## Take away
+### Take away
 
 Being godly is a concious effort to stay in tune with the Holy Spirit
 ```json
