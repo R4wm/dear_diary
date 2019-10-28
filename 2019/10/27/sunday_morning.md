@@ -10,7 +10,8 @@ Location: Lighthouse Baptist Church
 
 ### Notes
 There is much in here about the church  
-Ep:1
+>Text
+    [Ephesians](https://mintz5.com/bible/ephesians/1)
 
 >The church is Gods plan, JEsus gave himself for it!
     This is like saying I love Jesus but I hate his bride..  
@@ -31,8 +32,8 @@ EPHESIANS 4 : 16
 From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 ```
 
-* How the church is supposed to operate
-  http://localhost:8000/bible/EPHESIANS/5?json=false
+* How the church is supposed to operate  
+  https://mintz5.com/bible/EPHESIANS/5?json=false
 
 The church is very important to God
 ```
@@ -117,11 +118,7 @@ Since the church is Gods will, pray about what it is I dont like (mostly people)
   lol, this was already answered for me during the sermon.  
   
 Church is not optional for the Christian (who wants to obey God)  
-God loved it enough he have himself for it  
-He that
-
-  
-  
+God loved it enough he gave himself for it  
 
   ```
   PROVERBS 28 : 26
