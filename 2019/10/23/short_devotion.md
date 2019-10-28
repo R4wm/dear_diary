@@ -40,6 +40,8 @@ Being godly is a concious effort to stay in tune with the Holy Spirit
   "Text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
   }
 ```
+>The bible has much more to say about ungodly than godly..  
+  maybe something to study next
 
 Its not a one and done thing, and pride is the opposite of godliness.  
 This devotion does no justice to the topic, but the aforementioned are still true.  
