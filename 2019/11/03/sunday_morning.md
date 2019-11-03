@@ -16,14 +16,15 @@ Preacher: Pastor Brian Dunlop
 <p><b><left><a href=3/16?json=false> 16</a> And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory. </b></p>
     
 ## Notes
-* Acts 19:23
-individual assemblies for the teaching of the word of God.  
-Doctrine  
-  What the church teaches and believed
->Jude1:3
-*The faith*  
+Acts 19:23
+- individual assemblies for the teaching of the word of God.  
+- Doctrine 
+  * What the church teaches and believed
+>Jude1:3  
+
+__The faith__  
 Talks about the false doctrine  
-earnestly contend
+earnestly contending
 
 >Doctrine is so important
 Acts20:28
@@ -33,9 +34,9 @@ Acts20:28
 people will bring in false doctrine when Im gone.  
 Stand up for right doctrine  
 
-Titus1:8
-Titus, you have to make sure the right doctine is being taught.  
-Holding fast the faithful word  
+- Titus1:8  
+  * Titus, you have to make sure the right doctine is being taught.  
+  * Holding fast the faithful word  
 ```
 9 Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.
 
@@ -74,28 +75,29 @@ Till I come, give attendance to reading, to exhortation, to doctrine.
   This doesnt constiture a church  
 
 * Preach the word in truth
-http://localhost:8000/bible/2TIMOTHY/4/2
+  * http://localhost:8000/bible/2TIMOTHY/4/2
 
-Paul was concerned that people would be gullable to a false doctrine "Another Jesus"
-http://localhost:8000/bible/2CORINTHIANS/11/4?json=false
+Paul was concerned that people would be gullable to a false doctrine ["Another Jesus"](https://bible.mintz5.com/bible/2corinthians/11/4)
+
 
 Trust what God has done for you, not what you can do for Jesus  
 
 Its very simple, people will try to pull you away from the simplicity of the Gospel  
 
 If paul was cross checked with Gods word, every Pastor ought to be  
+  * find where this is referenced in the bible (missed it)
 
-*You need to study the Word*  
-
-
->There is 1 truth
-*Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.*  
-*He that hath the Son hath life; and he that hath not the Son of God hath not life.*  
-
->Church is
-where the gospel is proclaimed
+**You need to study the Word**  
 
 
+- There is 1 truth
+- Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.  
+- He that hath the Son hath life; and he that hath not the Son of God hath not life.  
+
+- Church is
+  * where the gospel is proclaimed
+
+search on **church** results
 ```json
 
 "Count": {
@@ -120,5 +122,12 @@ where the gospel is proclaimed
   "overall": 111
   }
 ```
-
+--- 
 ### Take Away
+
+I need to spend far more time in the BIble  
+Pray that God would give me wisdom on how to divide my time wisely  
+Lean not on my own understanding
+  * The heart is desperately wicked, who can know it
+
+Maybe off topic, but start leading your family spiritually.

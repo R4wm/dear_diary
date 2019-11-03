@@ -5,12 +5,12 @@ Text: http://localhost:8000/bible/NUMBERS/11
 # How to not spoil your children
 [Numbers 11](https://bible.mintz5.com/bible/NUMBERS/11)
 
->Complaining
+Complaining:
 Consider how often you will complain without even noticing  
 
 ---
 
->Thankfulness
+Thankfulness:
 whats getting our attention  
 As a man thinketh in his heart so is he  
 ```
@@ -23,22 +23,16 @@ For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but 
 
 
 ## Notes:
-1. Start with you
+1. Start with you  
    YOu need to be thankful for your blessings  
    The jews in the wilderness got used to their blessings to the point they were no longer thankful  
    So many miracles in their journey  
    Their shoes never gave out  
    There were no feeble in their group  
-   
-2. 
-
 
 * Lets consider how blessed we truly are.
 * Your children being happy should not be your number 1 goal  
   Teach them to appreciate
-* Benjamin Franklin took on a "bold and argous project" to not criticize people (this is a natrual tendancy)  
-
-
 
 ### Take Away
 Lots of examples about how people could not go a day without complaining..  
