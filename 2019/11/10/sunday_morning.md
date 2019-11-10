@@ -3,19 +3,21 @@ pastor brian dunlop
 location: Lighthouse Baptist Church
 ```
 
-# Find a Place
+![david_on_th_roof](./david_stayed_home.jpg)
 
-[Proverbs 27:8](Prov 27:6)
+# Find a Place (Being where you should be or not being where you shouldnt be)
+
+[Proverbs 27:8](http://cdn.mintz5.com/801A6BD/linode/bible/PROVERBS/27/8?json=false)
 ```json
 8 As a bird that wandereth from her nest, so is a man that wandereth from his place.
 ```
 ---
 ## Notes
-* Its in the nest that tthe bird finds safety and rest  
+* The bird finds safety and rest in their nest  
 * Just as there is a place for birds, there is a place for man  
 
-* 2Saam:11
-* David was in the wrong place..  
+* [2Sam:11](http://cdn.mintz5.com/801A6BD/linode/bible/2samuel/11)
+* [David got into trouble b/c he was not doing/being where he was supposed to be/do](http://cdn.mintz5.com/801A6BD/linode/bible/2samuel/11/2?json=false)
   He tarried still in Jerussalem when he should not have been there
 * David paid a high pice
 
@@ -91,7 +93,7 @@ Who changed the truth of God into a lie, and worshipped and served the creature 
 __Pastor gives many examples of churches that are preaching about being kind to plants and such__   
 
 
-Even watching this churches live stream !== how God wants worship per his word (the bible)  
+Even watching this churches live stream != how God wants worship per his word (the bible)  
 
 Isaiah 53:6  
 we have went our own ways
@@ -102,5 +104,11 @@ All we like sheep have gone astray; we have turned every one to his own way; and
 
 ---
 ### Take Away
+
+Remember that church is Gods idea  
+Always ask yourself, are you where you __should__ be  ?
+Working late? Sleeping in?  
+Beware of idle time  
+Trust God and not your own understanding  
 
 
