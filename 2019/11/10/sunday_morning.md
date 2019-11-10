@@ -36,11 +36,8 @@ location: Lighthouse Baptist Church
   ```
 
 2Peter2:10  
-People are self willed..  
-The people were not 
-```
+People are naturally self willed..  
 
-```
 
 * Jude1:8 following the desires of the heart  
 ```
