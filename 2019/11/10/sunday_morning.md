@@ -27,7 +27,8 @@ location: Lighthouse Baptist Church
 ```
 * Take note of the word **place** in [Deut:12](http://localhost:8000/bible/DEUTERONOMY/12)  
 
-**place** in Deuteronomy   17,18,10  
+[search API on the work place](https://cdn.mintz5.com/801A6BD/linode/bible/search?n=1000&q=place)
+
 
 * Its not a pick what you think is right relationship  
   ```
