@@ -17,9 +17,9 @@ location: Lighthouse Baptist Church
 * Just as there is a place for birds, there is a place for man  
 
 * [2Sam:11](http://cdn.mintz5.com/801A6BD/linode/bible/2samuel/11)
-  * [David got into trouble b/c he was not doing/being where he was supposed to be/do](http://cdn.mintz5.com/801A6BD/linode/bible/2samuel/11/2?json=false)
+  * [David got into trouble b/c he was not doing/being where he was supposed to be/do](http://cdn.mintz5.com/801A6BD/linode/bible/2samuel/11/2?json=false)  
     He tarried still in Jerussalem when he should not have been there
-    * David paid a high pice
+  * David paid a high pice
 
 * Prov 21:16
 ```
