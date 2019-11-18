@@ -28,7 +28,7 @@ Location: LBC
 <!-- Notes  -->
 <!------------>
 ## Notes
-[A full search on "fear the Lord"](http://localhost:8000/bible/search?n=1000&q=fear%20the%20lord)
+[A full search on "fear the Lord"](https://bible.mintz5.com/bible/search?n=1000&q=fear%20the%20lord)
 - Psalm78:32 they sinned still.. (God is merciful)
   ```
   37 For their heart was not right with him, neither were they stedfast in his covenant.
