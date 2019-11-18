@@ -32,11 +32,11 @@ Location: LBC
 - Psalm78:32 they sinned still.. (God is merciful)
   ```
   37 For their heart was not right with him, neither were they stedfast in his covenant.
-
-38 But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.
+  38 But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.
   ```
-  - God has not dealt with you after your sins
-  - You havent received what you deserve.
+  
+- God has not dealt with you after your sins
+- You havent received what you deserve.
   
 - Prov 9:10 fear of God is wisdom
   Prov 1:28-29
