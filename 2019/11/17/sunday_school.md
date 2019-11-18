@@ -3,9 +3,9 @@ Speaker: Brian Dunlop
 Location: Lighthouse Baptist Church
 ```
 
-## How to not spoil you children
+## How to not spoil your children
 
-[1Thes 5:18](http://localhost:8000/bible/1THESSALONIANS/5)
+[1Thes 5:18](https://bible.mintz5.com/bible/1thessalonians/5)
 
 ---
 
@@ -39,8 +39,7 @@ Location: Lighthouse Baptist Church
   - Psalm 101:3
 
 ```
-  3 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
-
+3 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
 4 A froward heart shall depart from me: I will not know a wicked person.
 
 ```
