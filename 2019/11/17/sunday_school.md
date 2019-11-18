@@ -37,24 +37,27 @@ Location: Lighthouse Baptist Church
 - Be careful what TV you allow them to watch
   - Most of the actors (rolls) on TV are not good examples.
   - Psalm 101:3
-  ```
+
+```
   3 I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
 
 4 A froward heart shall depart from me: I will not know a wicked person.
-  ```
-  - Proverbs 29:17
-  ```
+
+```
+
+
+```
   PROVERBS 29 : 17
 Correct thy son, and he shall give thee rest; yea, he shall give delight unto thy soul.
-  ```
-  - We as parents need to be vigilant b/c there is so many ways your children are influenced.
-  
+
+```
+
+- We as parents need to be vigilant b/c there is so many ways your children are influenced    
   - Be vigilant, it doesnt take much
     - If you have an 8 foot fence, but there is a small hole, your dog will still get out..
     
 - Dont expect instance results
   - This is a long term process, duh..
-  - 
   
 ---
 
