@@ -91,11 +91,7 @@ Col1:18 Jesus is the head of the body, the church..
   - Only Jesus can save you 
   - Only Jesus can forgive sin forever
 
-
-
-
-
---
+---
 <!--------------->
 <!-- TAKE AWAY -->
 <!--------------->

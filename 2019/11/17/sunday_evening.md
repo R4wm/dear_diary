@@ -28,7 +28,7 @@ Location: LBC
 <!-- Notes  -->
 <!------------>
 ## Notes
-[A full search on "fear the Lord"](http://localhost:8000/bible/search?n=1000&q=fear%20the%20lord)
+[A full search on "fear the Lord"](https://bible.mintz5.com/bible/search?n=1000&q=fear%20the%20lord)
 - Psalm78:32 they sinned still.. (God is merciful)
   ```
   37 For their heart was not right with him, neither were they stedfast in his covenant.
@@ -38,51 +38,57 @@ Location: LBC
 - God has not dealt with you after your sins
 - You havent received what you deserve.
   
-- Prov 9:10 fear of God is wisdom
-  Prov 1:28-29
-      Fearing God is a choice
-  Prov 2:1
-      cry after knowledge
-      incline thine ear unto understanding
-  Prov 16:6
-      By fear of the Lord men depart from evil
-  Prov 19:23
-      Fear of the Lord tendeth to life..
-  Prov 22:4
-      Fear of the lord is honor and life
-  Prov 9:10
-      Fear of the Lord is the beginning of knowledge
-  Prov 10:27
-      Fear of the lord prolongeth days
-  Psalm 33:18
-      The eye of the Lord is upon them that fear Him.
-  Psalms 31:19
-      19 Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!
+- Prov 9:10 fear of God is wisdom  
+- Prov 1:28-29
+  - Fearing God is a choice
+- Prov 2:1
+  cry after knowledge  
+  incline thine ear unto understanding  
+  Prov 16:6  
+      By fear of the Lord men depart from evil  
+  Prov 19:23  
+      Fear of the Lord tendeth to life..  
+  Prov 22:4  
+      Fear of the lord is honor and life  
+  Prov 9:10  
+      Fear of the Lord is the beginning of knowledge  
+  Prov 10:27  
+      Fear of the lord prolongeth days  
+  Psalm 33:18  
+      The eye of the Lord is upon them that fear Him.  
+  Psalms 31:19  
+      19 Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!  
       
 - Should we not fear God?
-  ```
+
+```
   JEREMIAH 5:24
 
 Neither say they in their heart, Let us now fear the LORD our God, that giveth rain, both the former and the latter, in his season: he reserveth unto us the appointed weeks of the harvest.
-  ```
+```
 
 - youd be a fool to not fear God
-  ```
+
+```
   ECCLESIASTES 12:13
 
 Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.
-  ```
+
+```
 
 - God told Jeremiah to go to the place of worship and tell them to **worship the Lord**
   - This is amazing, to the very people who thing they are worshiping
   - "Hey we're coming to church, why you telling me this?"
     wow
-    ```
+
+```
     JEREMIAH 7 : 2
 Stand in the gate of the LORD's house, and proclaim there this word, and say, Hear the word of the LORD, all ye of Judah, that enter in at these gates to worship the LORD.
-    ```
+
+```
 
 ### God has forgiven those who have asked it through Jesus Christ
+
 ```
 1JOHN 1:9
 
@@ -93,11 +99,14 @@ If we confess our sins, he is faithful and just to forgive us our sins, and to c
   As far as the east is from the west, so far hath he removed our transgressions from us.
   - Its interesting there is no east pole or west pole, like there is North Pole..
   - Micah 7:18 when you come to God with your sin
-    ```
+
+```
     19 He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
     20 Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
-    ```
-  - You will never catch God on a bad day
+
+```
+
+- You will never catch God on a bad day
   - He will have compassion, and cast your sins into the depth of the sea
     - The ocean floor is too deep to ever be investigated..  
     
