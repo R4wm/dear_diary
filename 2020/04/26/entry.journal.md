@@ -1,18 +1,20 @@
 # Things to think on for today
 
 ## 1Peter 1
+
 - Gods word endureth forvever
-  -- Gods word is truth
+  --Gods word is truth
   -- By his word I can *know* that I have eternal life through Jesus Christ
 
 - The trial of my faith is more precious than gold
   -- My trials with be counted and be counted as praiseable and honour
-  -- Therefore i should not despise or ask God to take away my trials, but see them as opportunity to redeem the test and win through Gods word (obedience)
+  --Therefore i should not despise or ask God to take away my trials, but see them as opportunity to redeem the test and win through Gods word (obedience)
 
 - Gird up the loins of your mind
 
 - Remember, this life is short (the grass witheth), the salvation of your soul will be revealed soon. Understand what God wants from you, become obedient, search the scriptures, do it, your going home soon. I want to be like a child who has done well, anxious to see his Father.
 
+--- 
 
 ```json
 {
