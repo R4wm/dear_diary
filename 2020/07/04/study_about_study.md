@@ -1,0 +1,34 @@
+- Read Daily
+  - Proverbs has 31 chapters in it
+    - you can read a chapter a day
+    - dont replace this with reading the bible, read the whole bible as well
+    - study the bible from front to back
+- Dispensationally
+  - Who is this book/chapter talking to
+  - dispensations of the bible
+    - Edenic
+    - conscience
+    - government
+    - family
+    - law
+    - church
+    - millinial kingdom of Jesus Christ
+  - where was he when writing this?
+- chronologically
+  - when the books of the bible were written
+- pre millenial order
+  - the kjv translators put the books in an order
+  - the first 7 books of the bible
+    - they line up with the 7 churches of the church age
+    - ephasus
+    - laodeccia
+      - apostosy
+      - see judges.. the last book of the first 7
+    - Ruth
+      - a woman who was a gentile who has a redeemer
+  - (will come back to this)
+
+- philemon
+  - about a slave who ran away from his master but comes back
+  
+  
